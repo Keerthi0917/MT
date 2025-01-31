@@ -1,2 +1,2 @@
 # MT
-projects
+AI&ML
